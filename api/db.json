@@ -1,0 +1,28 @@
+{
+  "streams": [
+    {
+      "title": "Endless Love",
+      "description": "Miriah Carey",
+      "userId": "104940818954881277728",
+      "id": 1
+    },
+    {
+      "title": "Malibu",
+      "description": "Mileys Cyrus",
+      "userId": "104940818954881277728",
+      "id": 2
+    },
+    {
+      "description": "Imagine Dragons",
+      "title": "Demons",
+      "userId": "109770630602159528025",
+      "id": 3
+    },
+    {
+      "title": "navigating to the stream list",
+      "description": "now it should work",
+      "userId": "104940818954881277728",
+      "id": 4
+    }
+  ]
+}
