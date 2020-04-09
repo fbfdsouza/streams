@@ -9,12 +9,12 @@ class StreamEdit extends React.Component {
     fetchStream(match.params.id);
   }
 
-  onSubmit = formValues => {
+  onSubmit = (formValues) => {
     const {
       updateStream,
       match: {
-        params: { id }
-      }
+        params: { id },
+      },
     } = this.props;
 
     updateStream(id, formValues);
