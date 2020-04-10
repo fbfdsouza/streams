@@ -1,7 +1,7 @@
 # Stream Video React APP
 
 
-this is a react web app cabable of making http requests to a RTMP server which receives videos streamed through a software called [OBS] (https://obsproject.com/)
+this is a react web app cabable of making http requests to a RTMP server which receives videos streamed through a software called [OBS](https://obsproject.com/)
 
 
 ## The project is comprised of the following main parts
