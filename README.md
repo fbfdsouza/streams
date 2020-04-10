@@ -18,7 +18,7 @@ this is a react web app cabable of making http requests to a RTMP server which r
  4) JSX
  5) CSS
 
-### Sample of the stream being provided through OBS and being accessed by our React APP.
+### Sample of the stream being provided through OBS and being accessed by our React APP that requested it to the RTMP Server.
 
 ![Stream Sample](resources/simplevideo.gif)
 
