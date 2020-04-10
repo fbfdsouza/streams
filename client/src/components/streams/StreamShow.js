@@ -27,12 +27,14 @@ class StreamShow extends React.Component {
   };
 
   componentDidUpdate() {
-    console.log("componentDidUpdate was called");
     this.loadVideo();
   }
 
+  componentWillUnmount() {
+    this.player.destroy();
+  }
+
   componentDidMount() {
-    console.log("componentDidMount was called");
     const {
       match: {
         params: { id },
