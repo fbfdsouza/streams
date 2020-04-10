@@ -10,4 +10,7 @@ this is a react web app cabable of making http requests to a RTMP server which r
  2) A rtmp project, the server which receives the http requests on port 8000 from our client and is fed by the OBS software with videos on port 1935.
  3) An api project responsible for crud operations for our client project which runs on port 3001. 
 
+### Sample of the stream being provided through OBS and being accessed by our React APP.
+
+![Stream Sample](resources/simplevideo.gif)
 
